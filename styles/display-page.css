@@ -1,0 +1,53 @@
+.buffer{
+	height: 100px;
+}
+
+.box{
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+}
+
+.master{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+}
+
+.green{
+	background-color: green;
+	width: 50%;
+	height: 200px;
+}
+
+.blue{
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+	float: right;
+	margin-top: -200px;
+}
+
+.grey{
+	background-color: gray;
+	width: 33.33333333%;
+	height: 300px;
+}
+
+.black{
+	background-color: black;
+	width: 33.333333333%;
+	height: 300px;
+	margin-left: 33.33333%;
+	float: center;
+	margin-top: -300px;
+}
+
+.yellow{
+	background-color: yellow;
+	width: 33.3333333333%;
+	height: 300px;
+	margin-left: 66.66666666%;
+	float: right;
+	margin-top: -300px;
+}
